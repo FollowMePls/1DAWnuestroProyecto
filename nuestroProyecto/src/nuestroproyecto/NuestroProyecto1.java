@@ -17,6 +17,7 @@ public class NuestroProyecto1{
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("HOLA QUE ASE");
+        System.out.print("HOLA QUE ASE");
     }
     
 

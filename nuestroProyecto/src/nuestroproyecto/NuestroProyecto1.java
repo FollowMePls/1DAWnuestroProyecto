@@ -26,6 +26,9 @@ public class NuestroProyecto1{
         System.out.print("HOLA QUE ASE");
 //>>>>>>> origin/master//
         System.out.print("HOLA QUE ASE");
+        
+        System.out.print(" QUE ASE");
+        System.out.print("ASE");
     }
     
 

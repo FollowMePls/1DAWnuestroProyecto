@@ -18,9 +18,13 @@ public class NuestroProyecto1{
         // TODO code application logic here
         System.out.print("HOLA QUE ASE");
         System.out.print("HOLA QUE ASE");
+//<<<<<<< HEAD//
          System.out.print("HOLA QUE ASE");
         System.out.print("HOLA QUE ASE");
          System.out.print("HOLA QUE ASE");
+//=======//
+        System.out.print("HOLA QUE ASE");
+//>>>>>>> origin/master//
         System.out.print("HOLA QUE ASE");
     }
     

@@ -18,6 +18,8 @@ public class NuestroProyecto1{
         // TODO code application logic here
         System.out.print("HOLA QUE ASE");
         System.out.print("HOLA QUE ASE");
+        System.out.print("HOLA QUE ASE");
+        System.out.print("HOLA QUE ASE");
     }
     
 
